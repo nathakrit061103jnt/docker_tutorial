@@ -52,7 +52,7 @@ sudo apt-get update
 sudo apt-get install git
 ```
 
-## ติดตั้ง Docker Compose บน Ubuntu 18
+### ติดตั้ง Docker Compose บน Ubuntu 18
 
 ```
 sudo apt-get update
